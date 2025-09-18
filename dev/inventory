@@ -1,0 +1,14 @@
+[apim]
+WSO2-1 ansible_host=WSO2-1 ansible_user=ansible
+WSO2-2 ansible_host=WSO2-2 ansible_user=ansible
+WSO2-3 ansible_host=WSO2-3 ansible_user=ansible
+WSO2-4 ansible_host=WSO2-5 ansible_user=ansible
+
+[apim_cp]
+WSO2-1 ansible_host=WSO2-1 ansible_user=ansible
+WSO2-2 ansible_host=WSO2-2 ansible_user=ansible
+
+[apim_gw]
+WSO2-3 ansible_host=WSO2-3 ansible_user=ansible
+WSO2-4 ansible_host=WSO2-4 ansible_user=ansible
+
